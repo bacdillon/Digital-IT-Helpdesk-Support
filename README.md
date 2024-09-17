@@ -4,5 +4,3 @@ Assist you checking the status of their IT helpdesk tickets (incidents) and prov
 [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/Digital-IT-Helpdesk-Support/blob/main/img/Background%20Image.jpg)
 
 [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/Digital-IT-Helpdesk-Support/blob/main/img/chatbot.jpg)
-
-
