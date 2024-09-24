@@ -10,4 +10,4 @@ Assist you checking the status of their IT helpdesk tickets (incidents) and prov
 5. You can ask for which category is this ticket? <br>
 6. What department does my user profile say I am in? <br>
 7. Close the chat session: Thanks that was helpful
- [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/Digital-IT-Helpdesk-Support/blob/main/img/chat.png)
+ ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/Digital-IT-Helpdesk-Support/blob/main/img/chat.png)
