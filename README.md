@@ -2,10 +2,10 @@
 Assist you checking the status of their IT helpdesk tickets (incidents) and provides information from knowledge articles related to company policies and HR scenarios.
 
 ## Instruction
-Email Address: beth.anglin@example.com
-Incident Number: INC0000055, INC0000053
-You can aske for Which category is this ticket?
-What department does my user profile say I am in?
+Email Address: beth.anglin@example.com <br>
+Incident Number: INC0000055, INC0000053 <br>
+You can aske for Which category is this ticket? <br>
+What department does my user profile say I am in? <br>
 
 
 - [x] 3. Chabot Integration 👇
