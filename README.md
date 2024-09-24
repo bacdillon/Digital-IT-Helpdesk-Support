@@ -12,3 +12,5 @@ Assist you checking the status of their IT helpdesk tickets (incidents) and prov
 
 Chabot Integration 👇
   [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/ServiceNow%20Integration/img/09.jpg)](https://bacdillon.github.io/Digital-IT-Helpdesk-Support/)
+
+ [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/Digital-IT-Helpdesk-Support/blob/main/img/chat.png)
