@@ -1,5 +1,5 @@
 ## Digital IT Helpdesk Support
-Assist you checking the status of their IT helpdesk tickets (incidents) and provides information from knowledge articles related to company policies and HR scenarios.
+Assist you checking the status of ServiceNow IT helpdesk tickets (incidents) and provides information from knowledge articles related to company policies and HR scenarios.
 
 ## Instruction
 1. Launch the chat window <br>
