@@ -3,6 +3,7 @@ Assist you checking the status of ServiceNow IT helpdesk tickets (incidents) and
 
 ## Instruction
 1. Launch the chat window <br>
+[![image]((https://github.com/bacdillon/Digital-IT-Helpdesk-Support/blob/main/img/Background.jpg)](https://bacdillon.github.io/Digital-IT-Helpdesk-Support/)
 [![IMAGE_ALT](https://github.com/bacdillon/Digital-IT-Helpdesk-Support/blob/main/img/Background.jpg](https://bacdillon.github.io/Digital-IT-Helpdesk-Support/)
  ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/Digital-IT-Helpdesk-Support/blob/main/img/Background.jpg)][(https://bacdillon.github.io/Digital-IT-Helpdesk-Support/)]
 3. Click Ticket Status Option <br>
